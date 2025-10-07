@@ -16,4 +16,6 @@ HAP has been successfully deployed in Toutiao, one of the largest content recomm
 
 ---
 
+### ToutiaoRec Dataset
 
+[Link](https://github.com/Toutiao-Rec/ToutiaoRec)
