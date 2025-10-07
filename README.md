@@ -3,7 +3,6 @@ In industrial recommender systems, the pre-ranking stage serves as a critical mi
 <div align="center">
 <img src="imgs/rec_system.png" alt="System Architecture" width="600"/>
 </div>
-
 <div align="center">
 <img src="imgs/grad_confict.png" alt="System Architecture" width="600"/>
 </div>
@@ -11,3 +10,4 @@ To tackle this, we propose HAP (Heterogeneity-Aware Adaptive Pre-ranking) — a 
 <div align="center">
 <img src="imgs/HAP.png" alt="System Architecture" width="600"/>
 </div>
+HAP has been successfully deployed in Toutiao, one of the largest content recommendation platforms in China, yielding +0.05% user active days and +0.4% app usage time — substantial gains at industrial scale.
