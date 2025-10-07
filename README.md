@@ -32,5 +32,6 @@ In addition:
 
 - The dataset includes 29 types of anonymized features, such as user behaviors and item attributes.
 - Given the diverse content formats in Toutiao (articles, microblogs, short videos, etc.), each candidate is annotated with its content type.
+
 The code and data will be released.
 
