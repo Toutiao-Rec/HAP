@@ -7,7 +7,7 @@ In industrial recommender systems, the pre-ranking stage serves as a critical mi
 </div>
 To tackle this, we propose HAP (Heterogeneity-Aware Adaptive Pre-ranking) — a unified framework that addresses both optimization conflict and computational inefficiency in large-scale pre-ranking.
 <div align="center">
-<img src="imgs/HAP.png" alt="System Architecture" width="600"/>
+<img src="imgs/new_hap.png" alt="System Architecture" width="600"/>
 </div>
 HAP has been successfully deployed in Toutiao, one of the largest content recommendation platforms in China, yielding +0.05% user active days and +0.4% app usage time — substantial gains at industrial scale.
 
